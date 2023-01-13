@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jcoy01
-- 👀 I’m interested in Web Development (Front-end and Back-end Development)
+- 👀 I’m interested in Web Development (Front and Back-end Development)
 - 🌱 I’m currently learning Web Development languages particularly Django and PHP
 - 📫 Email: jcoyapas1@gmail.com
 
