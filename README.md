@@ -18,10 +18,10 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcoy01&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcoy01&theme=modern-lilac2&hide_border=false" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcoy01&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcoy01&theme=aura&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
