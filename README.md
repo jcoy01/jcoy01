@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jo Christian Apas</h1>
-<h3 align="center">A bedess frontend developer from MSU-IIT.</h3>
+<h3 align="center">A bedess frontend and backend web developer from MSU-IIT.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 <p><img src="https://komarev.com/ghpvc/?username=jcoy01&color=blueviolet&style=for-the-badge"></p>
 
